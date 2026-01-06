@@ -1,0 +1,14 @@
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\bin\Debug\net10.0\QuizClient.exe
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\bin\Debug\net10.0\QuizClient.deps.json
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\bin\Debug\net10.0\QuizClient.runtimeconfig.json
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\bin\Debug\net10.0\QuizClient.dll
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\bin\Debug\net10.0\QuizClient.pdb
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.AssemblyInfoInputs.cache
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.AssemblyInfo.cs
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.csproj.CoreCompileInputs.cache
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.dll
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\refint\QuizClient.dll
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.pdb
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\QuizClient.genruntimeconfig.cache
+C:\Users\WORKSTATION\source\repos\QuizClient\QuizClient\obj\Debug\net10.0\ref\QuizClient.dll

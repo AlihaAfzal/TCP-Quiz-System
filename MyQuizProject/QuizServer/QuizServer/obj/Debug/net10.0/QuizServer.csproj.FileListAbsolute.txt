@@ -1,0 +1,14 @@
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\bin\Debug\net10.0\QuizServer.exe
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\bin\Debug\net10.0\QuizServer.deps.json
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\bin\Debug\net10.0\QuizServer.runtimeconfig.json
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\bin\Debug\net10.0\QuizServer.dll
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\bin\Debug\net10.0\QuizServer.pdb
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.AssemblyInfoInputs.cache
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.AssemblyInfo.cs
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.csproj.CoreCompileInputs.cache
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.dll
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\refint\QuizServer.dll
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.pdb
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\QuizServer.genruntimeconfig.cache
+C:\Users\WORKSTATION\source\repos\QuizServer\QuizServer\obj\Debug\net10.0\ref\QuizServer.dll
