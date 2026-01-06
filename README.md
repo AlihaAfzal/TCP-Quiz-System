@@ -32,4 +32,4 @@ A robust **Client-Server Quiz Application** built using C# and Socket Programmin
     * Answer 10 questions within the time limit!
 
 ## Demo
-Check out my [LinkedIn Profile](PASTE_YOUR_LINKEDIN_VIDEO_POST_LINK_HERE) to see the video demonstration of this project in action!
+Check out my [LinkedIn Profile] https://www.linkedin.com/posts/alihaafzal_we-recently-developed-a-multi-client-quiz-activity-7414381809863499776-irgv?utm_source=share&utm_medium=member_android&rcm=ACoAAEGLdakBCv0gmnMOBovgMmNuTAM4KZNGkro to see the video demonstration of this project in action!
